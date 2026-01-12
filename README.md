@@ -10,7 +10,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <a href="https://www.linkedin.com/in/mohammed-tasin-9a209637b/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
@@ -27,11 +27,11 @@
 
 ###
 
-<h3 align="left">💫 About Me:</h3>
+<h3 align="center">💫 About Me:</h3>
 
 ###
 
-<p align="left">🌱 I’m currently learning Advanced Next.js & TypeScript<br>📫 How to reach me miniofficial51@gmail.com<br>⚡ Fun fact I love solving problems while listening to lo-fi beats</p>
+<p align="center">🌱 I’m currently learning Advanced    Next.js & TypeScript<br>📫 How to reach me miniofficial51@gmail.com<br>⚡ Fun fact I love solving problems while listening to lo-fi beats</p>
 
 ###
 
