@@ -6,11 +6,11 @@
 
 ###
 
-<img align="left" height="264" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzVwbXh4MXd4YWJ1b3Qza2tlaTk4OGprNjc2YjBjN2lveG9sanFzNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif"  />
+<img align="right" height="264" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzVwbXh4MXd4YWJ1b3Qza2tlaTk4OGprNjc2YjBjN2lveG9sanFzNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif"  />
 
 ###
 
-<div align="center">
+<div align="left">
   <a href="https://www.linkedin.com/in/mohammed-tasin-9a209637b/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
@@ -37,7 +37,7 @@
 
 <br clear="both">
 
-<h2 align="left">💻 Tech Stack:</h2>
+<h3 align="left">💻 Tech Stack:</h3>
 
 ###
 
@@ -67,11 +67,19 @@
 
 ###
 
+<h3 align="left">💹 GitHub Contribution Graph</h3>
+
+###
+
 <br clear="both">
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tasin-Hossain&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
+
+###
+
+<h3 align="left">👾 Pacman On Contributions</h3>
 
 ###
 
@@ -85,6 +93,19 @@
 
 ###
 
+<h3 align="left">🐍 Snake On Contributions</h3>
+
+###
+
+<br clear="both">
+
 <img src="https://raw.githubusercontent.com/Tasin-Hossain/Tasin-Hossain/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Tasin-Hossain&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tasin-Hossain&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
 ###
