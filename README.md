@@ -2,11 +2,11 @@
 
 ###
 
-<h3 align="center">MERN Stack Developer || Minecraft Config Developer</h3>
+<h2 align="center">MERN Stack Developer || Minecraft Config Developer</h2>
 
 ###
 
-<img align="left" height="234" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzVwbXh4MXd4YWJ1b3Qza2tlaTk4OGprNjc2YjBjN2lveG9sanFzNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif"  />
+<img align="left" height="264" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzVwbXh4MXd4YWJ1b3Qza2tlaTk4OGprNjc2YjBjN2lveG9sanFzNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif"  />
 
 ###
 
@@ -27,11 +27,11 @@
 
 ###
 
-<h3 align="center">💫 About Me:</h3>
+<h3 align="left">💫 About Me:</h3>
 
 ###
 
-<p align="center">🌱 I’m currently learning Advanced    Next.js & TypeScript<br>📫 How to reach me miniofficial51@gmail.com<br>⚡ Fun fact I love solving problems while listening to lo-fi beats</p>
+<p align="left">🌱 I’m currently learning Advanced    Next.js & TypeScript<br>📫 How to reach me miniofficial51@gmail.com<br>⚡ Fun fact I love solving problems while listening to lo-fi beats</p>
 
 ###
 
