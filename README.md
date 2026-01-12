@@ -1,57 +1,90 @@
-<h1 align="center">Hi 👋, I'm Mohammed</h1>
-<h3 align="center">A passionate MERN Stack Developer from Dhaka, Bangladesh 🇧🇩</h3>
+<h1 align="center">Hey I'm Mohammad Tasin</h1>
 
-<img align="right" width="400" src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" alt="MERN Stack Coding GIF" />
+###
 
-- 🌱 I’m currently learning **Advanced Next.js & TypeScript**
-- 👨‍💻 All of my projects are available at [https://github.com/YOUR_USERNAME?tab=repositories](https://github.com/YOUR_USERNAME?tab=repositories)
-- 💬 Ask me about **React, Node.js, Express, MongoDB, Tailwind**
-- 📫 How to reach me **your.email@example.com**
-- ⚡ Fun fact **I love solving problems while listening to lo-fi beats**
+<h3 align="center">MERN Stack Developer || Minecraft Config Developer</h3>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="80" alt="waving hand" />
-</p>
+###
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="YOUR_LINKEDIN_USERNAME" height="30" width="40" /></a>
-  <a href="https://twitter.com/YOUR_TWITTER" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="YOUR_TWITTER" height="30" width="40" /></a>
-</p>
+<img align="left" height="234" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzVwbXh4MXd4YWJ1b3Qza2tlaTk4OGprNjc2YjBjN2lveG9sanFzNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif"  />
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a>
-</p>
+###
 
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&locale=en&theme=radical" alt="YOUR_USERNAME stats" />
-</p>
+<div align="left">
+  <a href="https://www.linkedin.com/in/mohammed-tasin-9a209637b/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://discord.gg/CSFrAGbKHQ" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  </a>
+  <a href="https://www.facebook.com/tasin.hossain.54772" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
+  </a>
+  <a href="https://www.youtube.com/channel/UC7tFjA35C4eHnZT3SowvqmQ" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  </a>
+</div>
 
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" alt="YOUR_USERNAME streak" />
-</p>
+###
 
-<!-- Snake Game Section -->
-<h2 align="center">🐍 My Contributions are getting eaten!</h2>
-<p align="center">
-  <img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake-dark.svg" alt="snake eating my contributions" />
-  <br/>
-  <sub>(Dark theme snake - light theme-এও ভালো লাগে)</sub>
-</p>
+<h3 align="left">💫 About Me:</h3>
 
-<!-- Extra fun GIF -->
-<p align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="280" alt="coding cat enjoying" />
-</p>
+###
 
-<p align="center">
-  <i>Happy Coding! 🚀</i>
-</p>
+<p align="left">🌱 I’m currently learning Advanced Next.js & TypeScript<br>📫 How to reach me miniofficial51@gmail.com<br>⚡ Fun fact I love solving problems while listening to lo-fi beats</p>
+
+###
+
+<br clear="both">
+
+<h2 align="left">💻 Tech Stack:</h2>
+
+###
+
+<br clear="both">
+
+<div align="left">
+  <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tasin-Hossain&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
+###
+
+<br clear="both">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tasin-Hossain/Tasin-Hossain/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tasin-Hossain/Tasin-Hossain/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Tasin-Hossain/Tasin-Hossain/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<img src="https://raw.githubusercontent.com/Tasin-Hossain/Tasin-Hossain/output/snake.svg" alt="Snake animation" />
+
+###
