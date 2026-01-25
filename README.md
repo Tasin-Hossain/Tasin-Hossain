@@ -75,18 +75,6 @@
 
 ###
 
-<h3 align="left">👾 Pacman On Contributions</h3>
-
-<br clear="both">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tasin-Hossain/Tasin-Hossain/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tasin-Hossain/Tasin-Hossain/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Tasin-Hossain/Tasin-Hossain/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
 <h3 align="left">🐍 Snake On Contributions</h3>
 
 <br clear="both">
